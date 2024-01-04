@@ -1,5 +1,5 @@
 /*
- * mini_project2.c
+ *stop_watch.c
  *
  *  Created on: Sep 14, 2022
  *      Author: omar mohamed
